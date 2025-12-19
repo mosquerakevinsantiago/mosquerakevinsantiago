@@ -1,5 +1,5 @@
 # <center>🚀 Bienvenid@ a mi Perfil👋</center>
-<img src="img/banner.jpg.pdf">
+<img src="img/banner.jpg">
 
 
 ## 💻 Quien soy?
@@ -32,16 +32,6 @@ Me caracterizo por ser **productivo, responsable** y con disposición para asumi
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="kevin/kevin.png" />
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="/img/Git.png" width="100" height="100" alt="GitHub" />
 </a>
 </p>
 
