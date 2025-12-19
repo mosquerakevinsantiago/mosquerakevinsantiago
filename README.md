@@ -1,5 +1,5 @@
 # <center>🚀 Bienvenid@ a mi Perfil👋</center>
-<img src="/"/>
+<img src="https://www.canva.com/design/DAG766FPhTY/YBpfl_naNkrIv6gPL6J-cg/view?utm_content=DAG766FPhTY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf9d3cac4f5"/>
 
 
 ## 💻 Quien soy?
