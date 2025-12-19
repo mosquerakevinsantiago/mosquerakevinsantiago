@@ -1,5 +1,5 @@
 # <center>🚀 Bienvenid@ a mi Perfil👋</center>
-<img src="img/banner.jpg.pdf">
+<img src="img/banner.jpg">
 
 
 ## 💻 Quien soy?
